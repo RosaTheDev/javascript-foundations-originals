@@ -1,0 +1,15 @@
+{
+    "name": "JavaScript Foundations",
+    "version": "1.0.0",
+    "description": "Practice programs for the basics of JavaScript",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha"
+    },
+    "author": "Turing School & RosaTheDev",
+    "license": "MIT",
+    "dependencies": {
+        "chai": "^4.3.7",
+        "mocha": "^9.2.2"
+    }
+}
