@@ -1,5 +1,6 @@
 # Material + Craft Tests
 Original author [Kayla Gordon](https://github.com/kaylagordon)
+
 ![crafting](https://media.giphy.com/media/H8Du95kBeT2zaf8Cax/giphy.gif)
 
 ## Installation Steps
